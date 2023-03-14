@@ -56,3 +56,8 @@
 body {
 	background-color: #BF9C73;
   }
+  
+  .youtube-video {
+	aspect-ratio: 16 / 9;
+	width: 100%;
+  }
